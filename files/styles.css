@@ -1,1 +1,28 @@
+
 /* Add your styles here */
+
+
+.two-column {
+    background-color: #00ff00;
+    color:blue;
+}
+.two-column {
+    border-style: double;
+    border-width: 5px;
+}
+.right {
+    background-color: black;
+    color: #00ff00;
+}
+.right {
+    cursor: grab;
+
+}
+.right{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+title {
+    color: #ff0000;
+
+}
